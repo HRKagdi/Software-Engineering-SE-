@@ -1,0 +1,1 @@
+In this activity we have to design a UML Class Diagram for a 'Drawing Editor' Software.
